@@ -16,12 +16,5 @@ elements = ["Hydrgen", "Helium", "Lithium", "Beryllium", "Boron", "Carbon"]
 #             print("Error: Please enter a valid integer!")
 #             continue
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bramjotsingh/Lab2.git
-git push -u origin main
 
-git add COMP2152/lab2.py
 
